@@ -1,0 +1,6 @@
+{
+  "name": "SplitNota",
+  "description": "Împarte nota de plată la restaurant între familii și prieteni. Scanare notă cu AI, selecție pe produse și cantități, împărțire egală sau după consum, plată rapidă prin RoPay Alias pe număr de telefon și cont IBAN, trimitere directă pe WhatsApp sau Email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
